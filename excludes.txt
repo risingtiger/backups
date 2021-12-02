@@ -1,0 +1,8 @@
+/Documents/
+/Downloads/
+/Library/
+/Movies/
+/Music/
+/Public/
+/.*
+node_modules/

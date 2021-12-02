@@ -1,4 +1,0 @@
- /.Trash/
- node_modules/
- /Downloads/
- /Google Drive/
