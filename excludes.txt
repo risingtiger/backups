@@ -1,8 +1,14 @@
+/Cloud/
 /Documents/
 /Downloads/
 /Library/
 /Movies/
 /Music/
+/Pictures/
 /Public/
-/.*
 node_modules/
+/.*
+/**/.git/
+/**/target/
+/Code/embassy/
+/Code/embassy/
